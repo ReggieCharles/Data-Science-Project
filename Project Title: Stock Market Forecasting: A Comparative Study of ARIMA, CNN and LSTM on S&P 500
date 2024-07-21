@@ -1,0 +1,11 @@
+data science project 2024
+version control
+
+Project_Title: Stock_Market_Forecasting: A Comparative Study of ARIMA, CNN and LSTM on S&P 500
+                This project plan sets the stage for a comprehensive exploration of stock market forecasting, 
+                underpinned by a meticulously crafted timeline and robust management strategy. 
+                By comparing the efficacy of ARIMA and LSTM models in predicting the S&P 500 index
+                we aim to distill algorithmic insights into actionable strategies for investors and financial analysts.
+
+Research_Question: 
+                How do ARIMA, CNN and LSTM models compare in terms of accuracy and reliability when predicting the S&P 500 index?
